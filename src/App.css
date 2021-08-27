@@ -1,0 +1,34 @@
+
+
+.App video {
+  position:fixed;
+  z-index:-1;
+  top:0;
+  left:0;
+  width:100%; 
+  height:100vh;
+  
+}
+
+.App .content {
+  position: absolute;
+  max-width: 20%;
+  height: 150px;
+  bottom: 200px;
+  left: 40%;
+  color: black;
+}
+
+.App .content .app-content {
+  padding: 40px;
+  font-size: 24px;
+}
+
+
+.blink  {
+  text-decoration: blink;
+  -webkit-animation: blink 1s step-end infinite;
+  -moz-animation: blink 1s step-end infinite;
+  -o-animation: blink 1s step-end infinite;
+  animation: blink 1s step-end infinite;
+}
