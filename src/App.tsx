@@ -21,6 +21,7 @@ function TypingComponent({ textToType, delay, loop }: Props) {
       setText("");
       setCurrentIndex(0);
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentIndex]);
   return <div>{text}<span className="blink">|</span></div>;
 }
