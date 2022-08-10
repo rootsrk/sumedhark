@@ -1,12 +1,8 @@
-import logo from "./assets/srk.png";
+import { Landing } from "./pages/Landing";
 
 function App() {
   return (
-    <div>
-      <header>
-        <img className="h-20 p-2 pl-8" src={logo} alt="srk logo" />
-      </header>
-    </div>
+   <Landing/>
   );
 }
 
