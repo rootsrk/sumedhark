@@ -7,12 +7,5 @@ export const libraryGroups = {
     "react/jsx-runtime",
   ],
 
-  core_2: [
-    "@tanstack/react-query",
-    "axios",
-    "immer",
-    "use-immer",
-    "zod",
-    "zustand",
-  ],
+  core_2: ["@tanstack/react-query", "axios", "zod", "zustand"],
 };
