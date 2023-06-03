@@ -14,7 +14,7 @@ import { Router } from "./Router";
     return;
   }
 
-  const locale = import.meta.env.VITE_LOCALE;
+  const locale = import.meta.env.VITE_LOCALE ?? "en";
 
   const [messages] = await Promise.all([
     import(`./translations/${locale}.json`).then((x) => x.default),
