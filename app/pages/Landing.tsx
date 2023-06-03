@@ -4,7 +4,7 @@ export function Landing() {
   return (
     <div className="flex h-screen w-screen">
       <div className="basis-1/4 bg-gray-9 p-8 max-md:basis-full">
-        <div className="border border-gray-8 rounded-2xl h-[900px] p-8">
+        <div className="border border-gray-8 rounded-2xl h-fit p-8">
           <img
             className="rounded-2xl mt-4"
             src={displayPicture}
