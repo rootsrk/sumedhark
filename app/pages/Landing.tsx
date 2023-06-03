@@ -3,8 +3,8 @@ import { assemblyLogo, displayPicture } from "../assets";
 export function Landing() {
   return (
     <div className="flex h-screen w-screen">
-      <div className="basis-1/4 bg-gray-9 p-4">
-        <div className="border border-gray-8 rounded-2xl h-[940px] p-8">
+      <div className="basis-1/4 bg-gray-9 p-8">
+        <div className="border border-gray-8 rounded-2xl h-[900px] p-8">
           <img
             className="rounded-2xl mt-4"
             src={displayPicture}
@@ -15,11 +15,11 @@ export function Landing() {
             <h1 className="text-gray-1 text-xl">
               Hi, I am Sumedha R Kulkarni.
             </h1>
-            <p className="text-gray-1 text-md mt-4 text-center">
+            <p className="text-gray-1 text-sm mt-4 text-center">
               I'm a software engineer with a passion for building products that
               make a difference.
             </p>
-            <p className="text-gray-1 text-md mt-4 text-center">
+            <p className="text-gray-1 text-sm mt-4 text-center">
               I'm currently working at
               <a
                 href="https://www.joinassembly.com/"
@@ -34,12 +34,12 @@ export function Landing() {
               </a>
               as a Senior Software Engineer.
             </p>
-            <p className="text-gray-1 text-md mt-4">
+            <p className="text-gray-1 text-sm mt-4">
               Based out of Bengaluru, India
             </p>
-            <h2 className="text-gray-1 text-md mt-4">hello@sumedhark.com</h2>
-            <div className="border border-gray-7 rounded h-12 w-full my-6"></div>
-            <p className="text-gray-6 text-sm mt-4">
+            <h2 className="text-gray-1 text-xs mt-4">hello@sumedhark.com</h2>
+            <div className="border border-gray-7 text-gray-1 text-center text-xs rounded h-12 w-full my-6">{`<social media link buttons here>`}</div>
+            <p className="text-gray-6 text-xs mt-4">
               © 2023 Sumedha R Kulkarni. All rights reserved.
             </p>
           </div>
