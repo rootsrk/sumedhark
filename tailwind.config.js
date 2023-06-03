@@ -1,9 +1,11 @@
+/* eslint-env node */
+
+/** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
+    './index.html',
+    './app/**/*.{ts,tsx}',
+    './node_modules/@assembly-web/ui/lib/**/*.{ts,tsx}',
   ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
+};

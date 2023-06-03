@@ -1,0 +1,5413 @@
+{
+  "+ONxsm": [
+    {
+      "type": 0,
+      "value": "Whoops, you declined Assembly's permission to connect with Google"
+    }
+  ],
+  "+ebcfD": [
+    {
+      "type": 0,
+      "value": "Flows: Form-based workflows for all of your tasks & processes"
+    }
+  ],
+  "+fICx5": [
+    {
+      "type": 0,
+      "value": "Important"
+    }
+  ],
+  "+ve/6Q": [
+    {
+      "type": 0,
+      "value": "Go to link"
+    }
+  ],
+  "/1iwkO": [
+    {
+      "type": 1,
+      "value": "author"
+    },
+    {
+      "type": 0,
+      "value": ": "
+    },
+    {
+      "type": 1,
+      "value": "content"
+    }
+  ],
+  "/GCoTA": [
+    {
+      "type": 0,
+      "value": "Clear"
+    }
+  ],
+  "/aBLH2": [
+    {
+      "type": 0,
+      "value": "Get started"
+    }
+  ],
+  "/zBwzT": [
+    {
+      "type": 1,
+      "value": "author"
+    },
+    {
+      "type": 0,
+      "value": " assigned this task to you"
+    }
+  ],
+  "01kGVR": [
+    {
+      "type": 0,
+      "value": "If you’ve got somewhere to be, these options will help:"
+    }
+  ],
+  "0k/xeR": [
+    {
+      "type": 0,
+      "value": "You have no posts yet -- create a post to have something in here. Don’t have a flow to post in? Create a flow."
+    }
+  ],
+  "0k9su+": [
+    {
+      "type": 1,
+      "value": "formattedFileName"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "0wJ7N+": [
+    {
+      "type": 0,
+      "value": "Task"
+    }
+  ],
+  "0xiw+A": [
+    {
+      "type": 0,
+      "value": "Display name(optional)"
+    }
+  ],
+  "1ODiI7": [
+    {
+      "type": 0,
+      "value": "Explore templates"
+    }
+  ],
+  "1g40Cy": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "If approved, "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": "  will be able "
+            },
+            {
+              "type": 1,
+              "value": "permission"
+            },
+            {
+              "type": 0,
+              "value": " in this flow."
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "If approved, "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": " and "
+            },
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " others will be able "
+            },
+            {
+              "type": 1,
+              "value": "permission"
+            },
+            {
+              "type": 0,
+              "value": " in this flow."
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "22KtHx": [
+    {
+      "type": 0,
+      "value": "Work smarter, not harder."
+    }
+  ],
+  "2BM55e": [
+    {
+      "type": 0,
+      "value": "Search templates..."
+    }
+  ],
+  "3Pbj9T": [
+    {
+      "type": 0,
+      "value": "Flows"
+    }
+  ],
+  "3W+NAx": [
+    {
+      "type": 0,
+      "value": "Welcome back! Get ready to work smarter, not harder."
+    }
+  ],
+  "3XVYrk": [
+    {
+      "type": 1,
+      "value": "memberName"
+    },
+    {
+      "type": 0,
+      "value": " | Profile | "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "3vlcqH": [
+    {
+      "type": 0,
+      "value": "Too many attempts with an incorrect code. Please try again in 30 minutes."
+    }
+  ],
+  "40tHfB": [
+    {
+      "type": 1,
+      "value": "emoticon"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "flowName"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "47TVnL": [
+    {
+      "type": 0,
+      "value": "Unfollow thread"
+    }
+  ],
+  "4hcxxh": [
+    {
+      "type": 0,
+      "value": "For Managers"
+    }
+  ],
+  "4uIOj+": [
+    {
+      "type": 0,
+      "value": "Assembly Universal Menu"
+    }
+  ],
+  "51FNQr": [
+    {
+      "type": 0,
+      "value": "to post and view posts in"
+    }
+  ],
+  "5WK7jL": [
+    {
+      "type": 0,
+      "value": "Create new"
+    }
+  ],
+  "5i95fi": [
+    {
+      "type": 0,
+      "value": "Job Type"
+    }
+  ],
+  "5q4xKF": [
+    {
+      "type": 0,
+      "value": "Resend email"
+    }
+  ],
+  "5qXkjs": [
+    {
+      "type": 0,
+      "value": "Flow - View Templates"
+    }
+  ],
+  "6su7BI": [
+    {
+      "type": 0,
+      "value": "Most relevant"
+    }
+  ],
+  "6xNr8c": [
+    {
+      "type": 0,
+      "value": "Switch accounts"
+    }
+  ],
+  "7/1ZDt": [
+    {
+      "type": 0,
+      "value": "We found a workspace for you!"
+    }
+  ],
+  "7B0uAq": [
+    {
+      "type": 0,
+      "value": "Try a different search or start building a workflow from scratch"
+    }
+  ],
+  "7CgpJf": [
+    {
+      "type": 0,
+      "value": "Hide menu on this site"
+    }
+  ],
+  "7nfn//": [
+    {
+      "type": 0,
+      "value": "You don’t have any tasks, yet. Create a task to get started!"
+    }
+  ],
+  "7pXrnq": [
+    {
+      "type": 0,
+      "value": "Day"
+    }
+  ],
+  "7xZKQk": [
+    {
+      "type": 0,
+      "value": "Try template"
+    }
+  ],
+  "8HJxXG": [
+    {
+      "type": 0,
+      "value": "Sign up"
+    }
+  ],
+  "8PIpCw": [
+    {
+      "type": 0,
+      "value": "Invite teammates"
+    }
+  ],
+  "8bGdCL": [
+    {
+      "type": 0,
+      "value": "Your name will appear on all posts and messages you create"
+    }
+  ],
+  "8eFffF": [
+    {
+      "type": 0,
+      "value": "You can request a new code in 30 seconds"
+    }
+  ],
+  "8j6QKd": [
+    {
+      "type": 0,
+      "value": "Assembly - Empower your team"
+    }
+  ],
+  "9+Ddtu": [
+    {
+      "type": 0,
+      "value": "Next"
+    }
+  ],
+  "934g+W": [
+    {
+      "type": 0,
+      "value": "Get our mobile app!"
+    }
+  ],
+  "980twZ": [
+    {
+      "type": 0,
+      "value": "Open search"
+    }
+  ],
+  "9BWtaE": [
+    {
+      "type": 0,
+      "value": "My Workspaces"
+    }
+  ],
+  "9G4Z05": [
+    {
+      "type": 0,
+      "value": "Go to Help Center"
+    }
+  ],
+  "9MDPuc": [
+    {
+      "type": 0,
+      "value": "Mention by "
+    },
+    {
+      "type": 1,
+      "value": "mentionByName"
+    },
+    {
+      "type": 0,
+      "value": " in a post in "
+    },
+    {
+      "type": 1,
+      "value": "emoticon"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "entityName"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "type": 1,
+      "value": "mentionAt"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspace"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "9yP/+Y": [
+    {
+      "type": 0,
+      "value": "Follow thread"
+    }
+  ],
+  "AXO+OS": [
+    {
+      "type": 0,
+      "value": "Unarchive task"
+    }
+  ],
+  "Af6DSw": [
+    {
+      "type": 0,
+      "value": "Welcome to "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "Agyq5A": [
+    {
+      "type": 0,
+      "value": "You’re registered with "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    }
+  ],
+  "An/Rik": [
+    {
+      "type": 0,
+      "value": "Most viewed"
+    }
+  ],
+  "AyGauy": [
+    {
+      "type": 0,
+      "value": "Login"
+    }
+  ],
+  "BRcT4+": [
+    {
+      "type": 0,
+      "value": "Add to Chrome - it's free"
+    }
+  ],
+  "BXwisy": [
+    {
+      "type": 0,
+      "value": "Log in with "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    }
+  ],
+  "BbeGkH": [
+    {
+      "type": 0,
+      "value": "Please log in with "
+    },
+    {
+      "type": 1,
+      "value": "samlText"
+    }
+  ],
+  "BoJFNZ": [
+    {
+      "type": 0,
+      "value": "This workspace requires you to authorize your account with "
+    },
+    {
+      "type": 1,
+      "value": "samlText"
+    },
+    {
+      "type": 0,
+      "value": ". Please click the “Log in with "
+    },
+    {
+      "type": 1,
+      "value": "samlText"
+    },
+    {
+      "type": 0,
+      "value": "” button to get back into your workspace."
+    }
+  ],
+  "BwBvS4": [
+    {
+      "type": 0,
+      "value": "Take me home"
+    }
+  ],
+  "ByNMYS": [
+    {
+      "type": 0,
+      "value": "Whoops, you declined Assembly's permission to connect with Office365"
+    }
+  ],
+  "C31cgR": [
+    {
+      "type": 0,
+      "value": "Load more important activity"
+    }
+  ],
+  "D1xFAE": [
+    {
+      "type": 0,
+      "value": "Head back home while we re-assemble."
+    }
+  ],
+  "D6RJfk": [
+    {
+      "type": 0,
+      "value": "Assembly Flow Templates"
+    }
+  ],
+  "DBvi+R": [
+    {
+      "type": 0,
+      "value": "Welcome to "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": "!"
+    }
+  ],
+  "DNFOtk": [
+    {
+      "type": 0,
+      "value": "Create a new workspace"
+    }
+  ],
+  "DetQNA": [
+    {
+      "type": 0,
+      "value": "By clicking the 'Continue' button, you're agreeing to our "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Terms of Service"
+        }
+      ],
+      "type": 8,
+      "value": "tos"
+    },
+    {
+      "type": 0,
+      "value": " and "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Privacy Policy"
+        }
+      ],
+      "type": 8,
+      "value": "privacy"
+    }
+  ],
+  "E5BeoJ": [
+    {
+      "type": 0,
+      "value": "Whoops, some wires got crossed. Sorry for the error, please try again now or wait a bit and try later."
+    }
+  ],
+  "E74jRZ": [
+    {
+      "type": 0,
+      "value": "We couldn’t find this workspace. Create a new one by signing up with Google, Slack, Office 365, or entering your email."
+    }
+  ],
+  "ECJpOU": [
+    {
+      "type": 0,
+      "value": "My Settings"
+    }
+  ],
+  "EMUJ/w": [
+    {
+      "type": 0,
+      "value": "Join an existing workspace to connect with your team and stay in flow. Or, start from scratch and create your own. Showing workspaces for "
+    },
+    {
+      "type": 1,
+      "value": "email"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "FSac6Q": [
+    {
+      "type": 0,
+      "value": "Code does not match or has expired. Click 'Resend link' to receive a new code"
+    }
+  ],
+  "FVipUH": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "It’s "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": "’s Anniversary! | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "It’s "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": "’s and "
+            },
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " others' Anniversaries! | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "FazwRl": [
+    {
+      "type": 0,
+      "value": "Try again"
+    }
+  ],
+  "FbOkvr": [
+    {
+      "type": 0,
+      "value": "Log in with a different email"
+    }
+  ],
+  "FuI6qb": [
+    {
+      "type": 0,
+      "value": "Your last name"
+    }
+  ],
+  "G0azkb": [
+    {
+      "type": 0,
+      "value": "You will receive a temporary 6 digit confirmation code at "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "email"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": ", enter it here."
+    }
+  ],
+  "GEE/pn": [
+    {
+      "type": 0,
+      "value": "Pin menu on this site"
+    }
+  ],
+  "GHXs/R": [
+    {
+      "type": 0,
+      "value": "Workspaces you’re a part of"
+    }
+  ],
+  "GQNYob": [
+    {
+      "type": 0,
+      "value": "Share link"
+    }
+  ],
+  "GcgTgQ": [
+    {
+      "type": 0,
+      "value": "🍃 Nothing found matching this search. Try adjusting your search."
+    }
+  ],
+  "GdG5+h": [
+    {
+      "type": 0,
+      "value": "For Product"
+    }
+  ],
+  "HPg3kr": [
+    {
+      "type": 0,
+      "value": "Been a while since you’ve seen this? Start a post in this flow!"
+    }
+  ],
+  "HaT7HP": [
+    {
+      "type": 0,
+      "value": "Do you manage people?"
+    }
+  ],
+  "HaZw6Q": [
+    {
+      "type": 0,
+      "value": "Go to help center"
+    }
+  ],
+  "HfHbP2": [
+    {
+      "type": 0,
+      "value": "Trouble loading filters, please refresh the page to try again."
+    }
+  ],
+  "Hjdtsh": [
+    {
+      "type": 0,
+      "value": "You’ve got nothing here for now, congratulations!"
+    }
+  ],
+  "I5NMJ8": [
+    {
+      "type": 0,
+      "value": "More"
+    }
+  ],
+  "I6MMaq": [
+    {
+      "type": 0,
+      "value": "Signing out"
+    }
+  ],
+  "IFo1oo": [
+    {
+      "type": 0,
+      "value": "Year"
+    }
+  ],
+  "INlWvJ": [
+    {
+      "type": 0,
+      "value": "OR"
+    }
+  ],
+  "IjUGja": [
+    {
+      "type": 0,
+      "value": "Click the refresh button to try fetching templates again."
+    }
+  ],
+  "J/KnIX": [
+    {
+      "type": 0,
+      "value": "View flow insights"
+    }
+  ],
+  "JEXQtm": [
+    {
+      "type": 0,
+      "value": "Your work anniversary (optional)"
+    }
+  ],
+  "JFxTO6": [
+    {
+      "type": 0,
+      "value": "Employee Engagement"
+    }
+  ],
+  "JUQ/Lv": [
+    {
+      "type": 0,
+      "value": "You don’t have any flows, yet. Flows help you automate your work and facilitate communication with your teammates -- browse our flow templates below:"
+    }
+  ],
+  "JUSaQ4": [
+    {
+      "type": 0,
+      "value": "Archive task"
+    }
+  ],
+  "JXMgdV": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 1,
+              "value": "invitedBy"
+            },
+            {
+              "type": 0,
+              "value": " requested to share "
+            },
+            {
+              "type": 1,
+              "value": "emoticon"
+            },
+            {
+              "type": 0,
+              "value": " "
+            },
+            {
+              "type": 1,
+              "value": "flowName"
+            },
+            {
+              "type": 0,
+              "value": " with "
+            },
+            {
+              "type": 1,
+              "value": "recipient"
+            },
+            {
+              "type": 0,
+              "value": "  | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 1,
+              "value": "invitedBy"
+            },
+            {
+              "type": 0,
+              "value": " requested to share "
+            },
+            {
+              "type": 1,
+              "value": "emoticon"
+            },
+            {
+              "type": 0,
+              "value": " "
+            },
+            {
+              "type": 1,
+              "value": "flowName"
+            },
+            {
+              "type": 0,
+              "value": " with "
+            },
+            {
+              "type": 1,
+              "value": "recipient"
+            },
+            {
+              "type": 0,
+              "value": " and 1 other | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 1,
+              "value": "invitedBy"
+            },
+            {
+              "type": 0,
+              "value": " requested to share "
+            },
+            {
+              "type": 1,
+              "value": "emoticon"
+            },
+            {
+              "type": 0,
+              "value": " "
+            },
+            {
+              "type": 1,
+              "value": "flowName"
+            },
+            {
+              "type": 0,
+              "value": " with "
+            },
+            {
+              "type": 1,
+              "value": "recipient"
+            },
+            {
+              "type": 0,
+              "value": " and "
+            },
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " others | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "JXdbo8": [
+    {
+      "type": 0,
+      "value": "Done"
+    }
+  ],
+  "Jkxa7F": [
+    {
+      "type": 0,
+      "value": "View Profile"
+    }
+  ],
+  "JvlqNc": [
+    {
+      "type": 0,
+      "value": "Did your teammates do something great? Remember to recognize them!"
+    }
+  ],
+  "KGqb1B": [
+    {
+      "type": 0,
+      "value": "Tell us about yourself!"
+    }
+  ],
+  "KI9d2W": [
+    {
+      "type": 0,
+      "value": "Go to Notebook"
+    }
+  ],
+  "KbdZ2G": [
+    {
+      "type": 0,
+      "value": "search template"
+    }
+  ],
+  "KduLMo": [
+    {
+      "type": 0,
+      "value": "+ Start from scratch"
+    }
+  ],
+  "LDamsf": [
+    {
+      "type": 0,
+      "value": "Games & Icebreakers"
+    }
+  ],
+  "LF6Qyt": [
+    {
+      "type": 0,
+      "value": "Workspaces you can join"
+    }
+  ],
+  "MI8bWP": [
+    {
+      "type": 1,
+      "value": "author"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "action"
+    },
+    {
+      "type": 0,
+      "value": " this task"
+    }
+  ],
+  "NgCT/u": [
+    {
+      "type": 0,
+      "value": "Enter your email address"
+    }
+  ],
+  "Nmjp0t": [
+    {
+      "type": 0,
+      "value": "Create a flow"
+    }
+  ],
+  "O5dbTK": [
+    {
+      "type": 0,
+      "value": "Filter Template"
+    }
+  ],
+  "ONzVkq": [
+    {
+      "type": 0,
+      "value": "Not seeing your workspace? "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Log in with a different email"
+        }
+      ],
+      "type": 8,
+      "value": "cta"
+    }
+  ],
+  "Oj6JSc": [
+    {
+      "type": 0,
+      "value": "Optional. Only for others to wish you happy birthday on your big day!"
+    }
+  ],
+  "Ooeuxf": [
+    {
+      "type": 0,
+      "value": "Showing workspaces for "
+    },
+    {
+      "type": 1,
+      "value": "email"
+    },
+    {
+      "type": 0,
+      "value": ". Go on in, or start from scratch and create your own."
+    }
+  ],
+  "OzVCpy": [
+    {
+      "type": 0,
+      "value": "By clicking the 'Sign up' button, you're agreeing to our "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Terms of Service"
+        }
+      ],
+      "type": 8,
+      "value": "tos"
+    },
+    {
+      "type": 0,
+      "value": " and "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Privacy Policy"
+        }
+      ],
+      "type": 8,
+      "value": "privacy"
+    }
+  ],
+  "P6PLpi": [
+    {
+      "type": 0,
+      "value": "Join"
+    }
+  ],
+  "PFfzPv": [
+    {
+      "type": 0,
+      "value": "Enter a valid email"
+    }
+  ],
+  "Pjo3sT": [
+    {
+      "type": 0,
+      "value": "Explore Assembly"
+    }
+  ],
+  "PuQiw+": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "It’s "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": "’s Birthday! | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "It’s "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": "’s and "
+            },
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " others' Birthday! | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "QHwY68": [
+    {
+      "type": 0,
+      "value": "Link successfully copied to clipboard"
+    }
+  ],
+  "QIvLEw": [
+    {
+      "type": 0,
+      "value": "Whoops, this code doesn’t match what we sent, check your email and try again."
+    }
+  ],
+  "QW+Q5N": [
+    {
+      "type": 0,
+      "value": "Clear all"
+    }
+  ],
+  "QdvBwh": [
+    {
+      "type": 0,
+      "value": "We couldn’t find a workspace associated to your email."
+    }
+  ],
+  "Qe1Iw2": [
+    {
+      "type": 0,
+      "value": "Optional. Only for others to wish you happy anniversary on your big day!"
+    }
+  ],
+  "RQfEKW": [
+    {
+      "type": 0,
+      "value": "Workflow Type"
+    }
+  ],
+  "RX8S51": [
+    {
+      "type": 0,
+      "value": "You don’t have any people in your workspace. Add the teammates you collaborate with the most to get more value out of your workspace, together!"
+    }
+  ],
+  "SYbvUn": [
+    {
+      "options": {
+        "false": {
+          "value": [
+            {
+              "options": {
+                "false": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "Reply on "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postAuthor"
+                    },
+                    {
+                      "type": 0,
+                      "value": "'s post in "
+                    },
+                    {
+                      "type": 1,
+                      "value": "emoticon"
+                    },
+                    {
+                      "type": 0,
+                      "value": " "
+                    },
+                    {
+                      "type": 1,
+                      "value": "flowName"
+                    },
+                    {
+                      "type": 0,
+                      "value": " on "
+                    },
+                    {
+                      "type": 1,
+                      "value": "date"
+                    },
+                    {
+                      "type": 0,
+                      "value": " | "
+                    },
+                    {
+                      "type": 1,
+                      "value": "workspace"
+                    },
+                    {
+                      "type": 0,
+                      "value": " - Assembly"
+                    }
+                  ]
+                },
+                "other": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "unknown"
+                    }
+                  ]
+                },
+                "true": {
+                  "value": [
+                    {
+                      "offset": 0,
+                      "options": {
+                        "=0": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Reply by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "repliedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "postAuthor"
+                            },
+                            {
+                              "type": 0,
+                              "value": "'s post in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        },
+                        "=1": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Replies by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "repliedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " and "
+                            },
+                            {
+                              "type": 1,
+                              "value": "count"
+                            },
+                            {
+                              "type": 0,
+                              "value": " other on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "postAuthor"
+                            },
+                            {
+                              "type": 0,
+                              "value": "'s post in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        },
+                        "other": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Replies by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "repliedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " and "
+                            },
+                            {
+                              "type": 1,
+                              "value": "count"
+                            },
+                            {
+                              "type": 0,
+                              "value": " others on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "postAuthor"
+                            },
+                            {
+                              "type": 0,
+                              "value": "'s post in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        }
+                      },
+                      "pluralType": "cardinal",
+                      "type": 6,
+                      "value": "count"
+                    }
+                  ]
+                }
+              },
+              "type": 5,
+              "value": "hasRepliedBy"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "unknown"
+            }
+          ]
+        },
+        "true": {
+          "value": [
+            {
+              "options": {
+                "false": {
+                  "value": [
+                    {
+                      "options": {
+                        "0": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Mention by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "mentionedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "postAuthor"
+                            },
+                            {
+                              "type": 0,
+                              "value": "'s post in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        },
+                        "1": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Mention by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "mentionedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " and 1 other on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "postAuthor"
+                            },
+                            {
+                              "type": 0,
+                              "value": "'s post in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        },
+                        "other": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Mention by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "mentionedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " and "
+                            },
+                            {
+                              "type": 1,
+                              "value": "additionalMentionedByCount"
+                            },
+                            {
+                              "type": 0,
+                              "value": " others on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "postAuthor"
+                            },
+                            {
+                              "type": 0,
+                              "value": "'s post in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        }
+                      },
+                      "type": 5,
+                      "value": "additionalMentionedByCount"
+                    }
+                  ]
+                },
+                "other": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "unknown"
+                    }
+                  ]
+                },
+                "true": {
+                  "value": [
+                    {
+                      "offset": 0,
+                      "options": {
+                        "=0": {
+                          "value": [
+                            {
+                              "offset": 0,
+                              "options": {
+                                "=0": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "=1": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "other": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "additionalMentionedByCount"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                }
+                              },
+                              "pluralType": "cardinal",
+                              "type": 6,
+                              "value": "additionalMentionedByCount"
+                            }
+                          ]
+                        },
+                        "=1": {
+                          "value": [
+                            {
+                              "offset": 0,
+                              "options": {
+                                "=0": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "=1": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "other": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "additionalMentionedByCount"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                }
+                              },
+                              "pluralType": "cardinal",
+                              "type": 6,
+                              "value": "additionalMentionedByCount"
+                            }
+                          ]
+                        },
+                        "other": {
+                          "value": [
+                            {
+                              "offset": 0,
+                              "options": {
+                                "=0": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "count"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "=1": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "count"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "other": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "additionalMentionedByCount"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "count"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "postAuthor"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": "'s post in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                }
+                              },
+                              "pluralType": "cardinal",
+                              "type": 6,
+                              "value": "additionalMentionedByCount"
+                            }
+                          ]
+                        }
+                      },
+                      "pluralType": "cardinal",
+                      "type": 6,
+                      "value": "count"
+                    }
+                  ]
+                }
+              },
+              "type": 5,
+              "value": "hasRepliedBy"
+            }
+          ]
+        }
+      },
+      "type": 5,
+      "value": "hasMentionedBy"
+    }
+  ],
+  "TBkHQs": [
+    {
+      "type": 0,
+      "value": "Go to post"
+    }
+  ],
+  "TBovrx": [
+    {
+      "type": 0,
+      "value": "Month"
+    }
+  ],
+  "TDQNax": [
+    {
+      "type": 0,
+      "value": "View post"
+    }
+  ],
+  "TJo5E6": [
+    {
+      "type": 0,
+      "value": "Preview"
+    }
+  ],
+  "TS84tj": [
+    {
+      "type": 0,
+      "value": "Edit flow"
+    }
+  ],
+  "ToUT+W": [
+    {
+      "type": 0,
+      "value": "Create a post"
+    }
+  ],
+  "Tpy00S": [
+    {
+      "type": 0,
+      "value": "People"
+    }
+  ],
+  "UmzYgL": [
+    {
+      "type": 0,
+      "value": "You don’t have any files, yet. Upload one to a post to get started!"
+    }
+  ],
+  "Vwl0bU": [
+    {
+      "type": 0,
+      "value": "Add Assembly to your channel tab"
+    }
+  ],
+  "VzzYJk": [
+    {
+      "type": 0,
+      "value": "Create"
+    }
+  ],
+  "WYzHAI": [
+    {
+      "type": 0,
+      "value": "Skip for now"
+    }
+  ],
+  "Wocb8I": [
+    {
+      "type": 0,
+      "value": "My Rewards"
+    }
+  ],
+  "XCgxPW": [
+    {
+      "type": 0,
+      "value": "Get ready to celebrate your co-workers! Use Assembly in Microsoft Teams to give recognition and redeem rewards."
+    }
+  ],
+  "XTXF1h": [
+    {
+      "type": 0,
+      "value": "Sorry, both a first and last name is required"
+    }
+  ],
+  "Xn0Cih": [
+    {
+      "type": 0,
+      "value": "Get ready to work smarter, not harder. Personalize your profile to get started."
+    }
+  ],
+  "Xs6TmW": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Reply by "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": " on your post in "
+            },
+            {
+              "type": 1,
+              "value": "emoticon"
+            },
+            {
+              "type": 0,
+              "value": " "
+            },
+            {
+              "type": 1,
+              "value": "flow"
+            },
+            {
+              "type": 0,
+              "value": " on "
+            },
+            {
+              "type": 1,
+              "value": "date"
+            },
+            {
+              "type": 0,
+              "value": " | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        },
+        "=1": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Replies by "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": " and 1 other on your post in "
+            },
+            {
+              "type": 1,
+              "value": "flow"
+            },
+            {
+              "type": 0,
+              "value": " on "
+            },
+            {
+              "type": 1,
+              "value": "date"
+            },
+            {
+              "type": 0,
+              "value": " | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Replies by "
+            },
+            {
+              "type": 1,
+              "value": "name"
+            },
+            {
+              "type": 0,
+              "value": " and "
+            },
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " others on your post in "
+            },
+            {
+              "type": 1,
+              "value": "flow"
+            },
+            {
+              "type": 0,
+              "value": " on "
+            },
+            {
+              "type": 1,
+              "value": "date"
+            },
+            {
+              "type": 0,
+              "value": " | "
+            },
+            {
+              "type": 1,
+              "value": "workspace"
+            },
+            {
+              "type": 0,
+              "value": " - Assembly"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "XvKOkW": [
+    {
+      "type": 0,
+      "value": "Whoops! Something went wrong."
+    }
+  ],
+  "ZVMCn+": [
+    {
+      "type": 0,
+      "value": "Enter your code here"
+    }
+  ],
+  "ZpQ6us": [
+    {
+      "type": 0,
+      "value": "Result"
+    }
+  ],
+  "aQPexO": [
+    {
+      "type": 0,
+      "value": "Give us feedback"
+    }
+  ],
+  "achJ6s": [
+    {
+      "type": 0,
+      "value": "Please remove special symbols — names can use letters only"
+    }
+  ],
+  "acrOoz": [
+    {
+      "type": 0,
+      "value": "Continue"
+    }
+  ],
+  "af2ntm": [
+    {
+      "type": 0,
+      "value": "Add to Edge - it's free"
+    }
+  ],
+  "agQOmL": [
+    {
+      "type": 0,
+      "value": "Reply by "
+    },
+    {
+      "type": 1,
+      "value": "author"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "type": 1,
+      "value": "post"
+    },
+    {
+      "type": 0,
+      "value": " in "
+    },
+    {
+      "type": 1,
+      "value": "flow"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "style": "short",
+      "type": 3,
+      "value": "createdAt"
+    },
+    {
+      "type": 0,
+      "value": " at "
+    },
+    {
+      "style": "short",
+      "type": 4,
+      "value": "createdAt"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "akrSOb": [
+    {
+      "type": 0,
+      "value": "View thread"
+    }
+  ],
+  "aqubXm": [
+    {
+      "type": 0,
+      "value": "Sign up with "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    }
+  ],
+  "bcGw5K": [
+    {
+      "type": 0,
+      "value": "Team Communications"
+    }
+  ],
+  "bnbjsR": [
+    {
+      "type": 0,
+      "value": "Enter your email or choose your preferred authenticator to get started with Assembly. Get ready to save your team up to 1 day per week with our easy-to-use flows."
+    }
+  ],
+  "c5l8dH": [
+    {
+      "type": 0,
+      "value": "No, I do not"
+    }
+  ],
+  "c6LNcW": [
+    {
+      "type": 0,
+      "value": "Delete task"
+    }
+  ],
+  "cRrPHv": [
+    {
+      "type": 0,
+      "value": "Extend your reach to find anything in your work life, anywhere across the web."
+    }
+  ],
+  "ccXLVi": [
+    {
+      "type": 0,
+      "value": "Category"
+    }
+  ],
+  "cfCfRR": [
+    {
+      "type": 0,
+      "value": "We couldn’t find a workspace associated to your email. Create a new one by signing up with Google, Slack, Office 365, or entering your email."
+    }
+  ],
+  "cnYyH/": [
+    {
+      "type": 0,
+      "value": "Spend less time searching, and more time getting stuff done"
+    }
+  ],
+  "cvMFzL": [
+    {
+      "type": 0,
+      "value": "Choose from 100s of use cases in our library of templates. Expert suggestions for processes like 1:1s, Weekly Agendas, Sales Wins, and more that you can modify to your specifications."
+    }
+  ],
+  "d8DiOp": [
+    {
+      "type": 0,
+      "value": "Create a task"
+    }
+  ],
+  "dJJDtF": [
+    {
+      "type": 0,
+      "value": "What workflow do you want to supercharge with Assembly?"
+    }
+  ],
+  "dKVUxN": [
+    {
+      "type": 0,
+      "value": "Keep this window open while checking your email. If you can't find your code, check your spam or junk folder or "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "resend the code in 30 seconds"
+        }
+      ],
+      "type": 8,
+      "value": "cta"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "dLxnyl": [
+    {
+      "type": 0,
+      "value": "Choose your use case"
+    }
+  ],
+  "dtCJTJ": [
+    {
+      "type": 0,
+      "value": "Log in below to enter a workspace."
+    }
+  ],
+  "eAS4vy": [
+    {
+      "type": 0,
+      "value": "Whoops! Looks like you may have selected the wrong "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    },
+    {
+      "type": 0,
+      "value": " workspace. Please double check and try again."
+    }
+  ],
+  "eJKtsa": [
+    {
+      "type": 0,
+      "value": "Use Case"
+    }
+  ],
+  "eKv7yX": [
+    {
+      "type": 0,
+      "value": "Post"
+    }
+  ],
+  "eR3YIn": [
+    {
+      "type": 0,
+      "value": "Posts"
+    }
+  ],
+  "evv8Cq": [
+    {
+      "type": 0,
+      "value": "Search for \""
+    },
+    {
+      "type": 1,
+      "value": "searchTerm"
+    },
+    {
+      "type": 0,
+      "value": "\" on the web"
+    }
+  ],
+  "ewx2b7": [
+    {
+      "type": 0,
+      "value": "Launch"
+    }
+  ],
+  "f/rpuL": [
+    {
+      "type": 0,
+      "value": "Keep this window open while checking your email. If you can’t find it, check your spam or junk folder."
+    }
+  ],
+  "fAk1L9": [
+    {
+      "type": 0,
+      "value": "Open "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    }
+  ],
+  "fBDjzf": [
+    {
+      "type": 0,
+      "value": "You’ve previously used "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    },
+    {
+      "type": 0,
+      "value": " to authorize your account for this workspace. Please click the “Log in with "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    },
+    {
+      "type": 0,
+      "value": "” button to get back into your workspace."
+    }
+  ],
+  "fGhwMp": [
+    {
+      "type": 0,
+      "value": "Start from scratch"
+    }
+  ],
+  "fS+KBJ": [
+    {
+      "type": 0,
+      "value": "QR code for the Assembly mobile app"
+    }
+  ],
+  "fWXvXE": [
+    {
+      "type": 0,
+      "value": "I'm looking for"
+    }
+  ],
+  "fmI2ab": [
+    {
+      "type": 1,
+      "value": "emoticon"
+    },
+    {
+      "type": 0,
+      "value": " Give Recognition | "
+    },
+    {
+      "type": 1,
+      "value": "workspace"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "fq86MK": [
+    {
+      "type": 0,
+      "value": "Most recent"
+    }
+  ],
+  "fy4Xrz": [
+    {
+      "type": 0,
+      "value": "Go to flow"
+    }
+  ],
+  "gAheNu": [
+    {
+      "type": 0,
+      "value": "Go to member"
+    }
+  ],
+  "gWiQ1v": [
+    {
+      "type": 0,
+      "value": "Already using Assembly? "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Log into an existing workspace"
+        }
+      ],
+      "type": 8,
+      "value": "cta"
+    }
+  ],
+  "gcuDcH": [
+    {
+      "type": 0,
+      "value": "Sent"
+    }
+  ],
+  "gipEMW": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "no members"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "1 member"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 1,
+              "value": "count"
+            },
+            {
+              "type": 0,
+              "value": " members"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "gk3x/E": [
+    {
+      "type": 0,
+      "value": "more"
+    }
+  ],
+  "h+jpRb": [
+    {
+      "type": 1,
+      "value": "email"
+    },
+    {
+      "type": 0,
+      "value": " is not part of any existing workspaces. Try a different email, or create a new workspace from scratch."
+    }
+  ],
+  "h4jN6H": [
+    {
+      "type": 0,
+      "value": "Workspaces you’ve been invited to"
+    }
+  ],
+  "h63pxG": [
+    {
+      "type": 0,
+      "value": "Get our mobile app"
+    }
+  ],
+  "hM+Sro": [
+    {
+      "type": 0,
+      "value": "Maximum number of attempts reached. Please try again in 30 minutes."
+    }
+  ],
+  "hYOE+U": [
+    {
+      "type": 0,
+      "value": "Invite"
+    }
+  ],
+  "ha21pL": [
+    {
+      "type": 0,
+      "value": "Mark task as incomplete"
+    }
+  ],
+  "i0U44K": [
+    {
+      "type": 0,
+      "value": "Task: "
+    },
+    {
+      "type": 1,
+      "value": "taskTitle"
+    }
+  ],
+  "iPw6FV": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "options": {
+                "0": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "New post by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " "
+                    }
+                  ]
+                },
+                "1": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "New post by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " and 1 other"
+                    }
+                  ]
+                },
+                "other": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "New post by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " and "
+                    },
+                    {
+                      "type": 1,
+                      "value": "count"
+                    },
+                    {
+                      "type": 0,
+                      "value": " others"
+                    }
+                  ]
+                }
+              },
+              "type": 5,
+              "value": "count"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "options": {
+                "0": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "New posts by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " "
+                    }
+                  ]
+                },
+                "1": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "New posts by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " and 1 other"
+                    }
+                  ]
+                },
+                "other": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "New posts by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " and "
+                    },
+                    {
+                      "type": 1,
+                      "value": "count"
+                    },
+                    {
+                      "type": 0,
+                      "value": " others"
+                    }
+                  ]
+                }
+              },
+              "type": 5,
+              "value": "count"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "icPl9Z": [
+    {
+      "options": {
+        "false": {
+          "value": [
+            {
+              "options": {
+                "false": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "Reply on "
+                    },
+                    {
+                      "type": 1,
+                      "value": "celebrationType"
+                    },
+                    {
+                      "type": 0,
+                      "value": " Post for "
+                    },
+                    {
+                      "type": 1,
+                      "value": "celebratedUser"
+                    },
+                    {
+                      "type": 0,
+                      "value": " in "
+                    },
+                    {
+                      "type": 1,
+                      "value": "emoticon"
+                    },
+                    {
+                      "type": 0,
+                      "value": " "
+                    },
+                    {
+                      "type": 1,
+                      "value": "flowName"
+                    },
+                    {
+                      "type": 0,
+                      "value": " on "
+                    },
+                    {
+                      "type": 1,
+                      "value": "date"
+                    },
+                    {
+                      "type": 0,
+                      "value": " | "
+                    },
+                    {
+                      "type": 1,
+                      "value": "workspace"
+                    },
+                    {
+                      "type": 0,
+                      "value": " - Assembly"
+                    }
+                  ]
+                },
+                "other": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "unknown"
+                    }
+                  ]
+                },
+                "true": {
+                  "value": [
+                    {
+                      "offset": 0,
+                      "options": {
+                        "=0": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Reply by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "repliedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebrationType"
+                            },
+                            {
+                              "type": 0,
+                              "value": " Post for "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebratedUser"
+                            },
+                            {
+                              "type": 0,
+                              "value": " in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        },
+                        "=1": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Replies by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "repliedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " and "
+                            },
+                            {
+                              "type": 1,
+                              "value": "count"
+                            },
+                            {
+                              "type": 0,
+                              "value": " other on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebrationType"
+                            },
+                            {
+                              "type": 0,
+                              "value": " Post for "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebratedUser"
+                            },
+                            {
+                              "type": 0,
+                              "value": " in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        },
+                        "other": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Replies by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "repliedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " and "
+                            },
+                            {
+                              "type": 1,
+                              "value": "count"
+                            },
+                            {
+                              "type": 0,
+                              "value": " others on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebrationType"
+                            },
+                            {
+                              "type": 0,
+                              "value": " Post for "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebratedUser"
+                            },
+                            {
+                              "type": 0,
+                              "value": " in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        }
+                      },
+                      "pluralType": "cardinal",
+                      "type": 6,
+                      "value": "count"
+                    }
+                  ]
+                }
+              },
+              "type": 5,
+              "value": "hasRepliedBy"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "unknown"
+            }
+          ]
+        },
+        "true": {
+          "value": [
+            {
+              "options": {
+                "false": {
+                  "value": [
+                    {
+                      "options": {
+                        "0": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Mention by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "mentionedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebrationType"
+                            },
+                            {
+                              "type": 0,
+                              "value": " Post for "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebratedUser"
+                            },
+                            {
+                              "type": 0,
+                              "value": " in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        },
+                        "1": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Mention by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "mentionedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " and 1 other on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebrationType"
+                            },
+                            {
+                              "type": 0,
+                              "value": " Post for "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebratedUser"
+                            },
+                            {
+                              "type": 0,
+                              "value": " in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        },
+                        "other": {
+                          "value": [
+                            {
+                              "type": 0,
+                              "value": "Mention by "
+                            },
+                            {
+                              "type": 1,
+                              "value": "mentionedBy"
+                            },
+                            {
+                              "type": 0,
+                              "value": " and "
+                            },
+                            {
+                              "type": 1,
+                              "value": "additionalMentionedByCount"
+                            },
+                            {
+                              "type": 0,
+                              "value": " others on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebrationType"
+                            },
+                            {
+                              "type": 0,
+                              "value": " Post for "
+                            },
+                            {
+                              "type": 1,
+                              "value": "celebratedUser"
+                            },
+                            {
+                              "type": 0,
+                              "value": " in "
+                            },
+                            {
+                              "type": 1,
+                              "value": "emoticon"
+                            },
+                            {
+                              "type": 0,
+                              "value": " "
+                            },
+                            {
+                              "type": 1,
+                              "value": "flowName"
+                            },
+                            {
+                              "type": 0,
+                              "value": " on "
+                            },
+                            {
+                              "type": 1,
+                              "value": "date"
+                            },
+                            {
+                              "type": 0,
+                              "value": " | "
+                            },
+                            {
+                              "type": 1,
+                              "value": "workspace"
+                            },
+                            {
+                              "type": 0,
+                              "value": " - Assembly"
+                            }
+                          ]
+                        }
+                      },
+                      "type": 5,
+                      "value": "additionalMentionedByCount"
+                    }
+                  ]
+                },
+                "other": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "unknown"
+                    }
+                  ]
+                },
+                "true": {
+                  "value": [
+                    {
+                      "offset": 0,
+                      "options": {
+                        "=0": {
+                          "value": [
+                            {
+                              "offset": 0,
+                              "options": {
+                                "=0": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "=1": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "other": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "additionalMentionedByCount"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                }
+                              },
+                              "pluralType": "cardinal",
+                              "type": 6,
+                              "value": "additionalMentionedByCount"
+                            }
+                          ]
+                        },
+                        "=1": {
+                          "value": [
+                            {
+                              "offset": 0,
+                              "options": {
+                                "=0": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "=1": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "other": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "additionalMentionedByCount"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                }
+                              },
+                              "pluralType": "cardinal",
+                              "type": 6,
+                              "value": "additionalMentionedByCount"
+                            }
+                          ]
+                        },
+                        "other": {
+                          "value": [
+                            {
+                              "offset": 0,
+                              "options": {
+                                "=0": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "count"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "=1": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and 1 other and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "count"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                },
+                                "other": {
+                                  "value": [
+                                    {
+                                      "type": 0,
+                                      "value": "Mention by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "mentionedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "additionalMentionedByCount"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others and reply by "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "repliedBy"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " and "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "count"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " others on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebrationType"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " Post for "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "celebratedUser"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " in "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "emoticon"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "flowName"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " on "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "date"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " | "
+                                    },
+                                    {
+                                      "type": 1,
+                                      "value": "workspace"
+                                    },
+                                    {
+                                      "type": 0,
+                                      "value": " - Assembly"
+                                    }
+                                  ]
+                                }
+                              },
+                              "pluralType": "cardinal",
+                              "type": 6,
+                              "value": "additionalMentionedByCount"
+                            }
+                          ]
+                        }
+                      },
+                      "pluralType": "cardinal",
+                      "type": 6,
+                      "value": "count"
+                    }
+                  ]
+                }
+              },
+              "type": 5,
+              "value": "hasRepliedBy"
+            }
+          ]
+        }
+      },
+      "type": 5,
+      "value": "hasMentionedBy"
+    }
+  ],
+  "itkPLC": [
+    {
+      "type": 0,
+      "value": "Something went wrong, try again later."
+    }
+  ],
+  "jhIaTc": [
+    {
+      "type": 0,
+      "value": "Browse templates"
+    }
+  ],
+  "jyaXKN": [
+    {
+      "type": 0,
+      "value": "Join your team by entering your work email address to confirm your account."
+    }
+  ],
+  "kei/lX": [
+    {
+      "type": 0,
+      "value": "Start a post"
+    }
+  ],
+  "lC5inS": [
+    {
+      "type": 0,
+      "value": "Meeting Tools"
+    }
+  ],
+  "lR79UV": [
+    {
+      "type": 0,
+      "value": "What are you looking to solve?"
+    }
+  ],
+  "lbr3Lq": [
+    {
+      "type": 0,
+      "value": "Copy link"
+    }
+  ],
+  "lg6l6z": [
+    {
+      "type": 0,
+      "value": "Mark task as complete"
+    }
+  ],
+  "m1dQhp": [
+    {
+      "type": 0,
+      "value": "| "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "m4c/De": [
+    {
+      "type": 0,
+      "value": "Your full name"
+    }
+  ],
+  "m4vqJl": [
+    {
+      "type": 0,
+      "value": "Files"
+    }
+  ],
+  "mEaLUv": [
+    {
+      "type": 0,
+      "value": "Yes, I do"
+    }
+  ],
+  "mIDAFm": [
+    {
+      "type": 0,
+      "value": "We couldn’t find any matching templates"
+    }
+  ],
+  "mL4rUw": [
+    {
+      "type": 0,
+      "value": "Go to Knowledge Center"
+    }
+  ],
+  "mvJrR5": [
+    {
+      "type": 0,
+      "value": "Don't have an Assembly yet? "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Sign up"
+        }
+      ],
+      "type": 8,
+      "value": "cta"
+    }
+  ],
+  "mwB4Ex": [
+    {
+      "type": 0,
+      "value": "Anniversary Post for "
+    },
+    {
+      "type": 1,
+      "value": "celebratedTeammate"
+    },
+    {
+      "type": 0,
+      "value": " in "
+    },
+    {
+      "type": 1,
+      "value": "flow"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "style": "short",
+      "type": 3,
+      "value": "createdAt"
+    },
+    {
+      "type": 0,
+      "value": " at "
+    },
+    {
+      "style": "short",
+      "type": 4,
+      "value": "createdAt"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "nvh46h": [
+    {
+      "type": 0,
+      "value": "For CS"
+    }
+  ],
+  "o/8JwO": [
+    {
+      "type": 0,
+      "value": "Mark as seen"
+    }
+  ],
+  "oBnv+B": [
+    {
+      "type": 0,
+      "value": "Get ready to work smarter, not harder. Your organization has registered "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    },
+    {
+      "type": 0,
+      "value": " for sign in. Please click “Log in with "
+    },
+    {
+      "type": 1,
+      "value": "provider"
+    },
+    {
+      "type": 0,
+      "value": "” to sign into your new workspace."
+    }
+  ],
+  "oCWe9W": [
+    {
+      "type": 0,
+      "value": "Please enable cookies in your browser to log into Assembly"
+    }
+  ],
+  "oMLMPu": [
+    {
+      "type": 0,
+      "value": "What do you want to find or do?"
+    }
+  ],
+  "oWrx0g": [
+    {
+      "type": 0,
+      "value": "Choose your email provider to find your code:"
+    }
+  ],
+  "odXlk8": [
+    {
+      "type": 0,
+      "value": "Log in"
+    }
+  ],
+  "og6OiT": [
+    {
+      "offset": 0,
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "1 flow to do"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " flows to do"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "count"
+    }
+  ],
+  "orvpWh": [
+    {
+      "type": 0,
+      "value": "Go back"
+    }
+  ],
+  "p+Fk7h": [
+    {
+      "type": 0,
+      "value": "Congrats, and welcome to Assembly -- get ready to join your team. We’ll set you up with some flows and give you time to explore!"
+    }
+  ],
+  "p3bT33": [
+    {
+      "type": 0,
+      "value": "to post in"
+    }
+  ],
+  "pCERTC": [
+    {
+      "type": 0,
+      "value": "Start post"
+    }
+  ],
+  "pCjZvR": [
+    {
+      "type": 0,
+      "value": "Is this incorrect? "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Return to login"
+        }
+      ],
+      "type": 8,
+      "value": "cta"
+    }
+  ],
+  "pXNgqm": [
+    {
+      "type": 0,
+      "value": "Hide preview"
+    }
+  ],
+  "pcFO7W": [
+    {
+      "type": 1,
+      "value": "flowName"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "s6xVoN": [
+    {
+      "type": 0,
+      "value": "No spaces and only “-” or “.” can be used -- we will use your full name by default but you can personalize it if you’d like."
+    }
+  ],
+  "s8Jmp7": [
+    {
+      "type": 0,
+      "value": "Your browser currently has all cookies disabled. You won’t be able to log in until they’re enabled."
+    }
+  ],
+  "sUfmnz": [
+    {
+      "type": 1,
+      "value": "invitedBy"
+    },
+    {
+      "type": 0,
+      "value": " requested to "
+    },
+    {
+      "type": 1,
+      "value": "permission"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "emoticon"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "flowName"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspace"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "sjzLbX": [
+    {
+      "type": 0,
+      "value": "Accept"
+    }
+  ],
+  "st3OOX": [
+    {
+      "type": 0,
+      "value": "Go to Admin"
+    }
+  ],
+  "tDrT7b": [
+    {
+      "type": 0,
+      "value": "Whoops, you declined Assembly's permission to connect with Slack"
+    }
+  ],
+  "tgmFWt": [
+    {
+      "type": 0,
+      "value": "Whoops! We had trouble loading your important activities."
+    }
+  ],
+  "u+VXeI": [
+    {
+      "type": 0,
+      "value": "Show preview"
+    }
+  ],
+  "u0Fcdm": [
+    {
+      "type": 0,
+      "value": "Birthday Post for "
+    },
+    {
+      "type": 1,
+      "value": "celebratedTeammate"
+    },
+    {
+      "type": 0,
+      "value": " in "
+    },
+    {
+      "type": 1,
+      "value": "flow"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "style": "short",
+      "type": 3,
+      "value": "createdAt"
+    },
+    {
+      "type": 0,
+      "value": " at "
+    },
+    {
+      "style": "short",
+      "type": 4,
+      "value": "createdAt"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "uELsLC": [
+    {
+      "type": 0,
+      "value": "Oops! Something was disassembled."
+    }
+  ],
+  "uPFZiI": [
+    {
+      "type": 0,
+      "value": "Almost done, check your email"
+    }
+  ],
+  "uc2nY1": [
+    {
+      "type": 0,
+      "value": "Log in with "
+    },
+    {
+      "type": 1,
+      "value": "samlText"
+    }
+  ],
+  "v5egUn": [
+    {
+      "type": 0,
+      "value": "Looks like you’re lost! Should we circle back?"
+    }
+  ],
+  "vD/zi7": [
+    {
+      "type": 0,
+      "value": "Account has already been created. Log in below to access your account."
+    }
+  ],
+  "vMqKjJ": [
+    {
+      "options": {
+        "other": {
+          "value": [
+            {
+              "options": {
+                "0": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "Post due in "
+                    },
+                    {
+                      "type": 1,
+                      "value": "daysHours"
+                    },
+                    {
+                      "type": 0,
+                      "value": " • New posts by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " "
+                    }
+                  ]
+                },
+                "1": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "Post due in "
+                    },
+                    {
+                      "type": 1,
+                      "value": "daysHours"
+                    },
+                    {
+                      "type": 0,
+                      "value": " • New posts by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " and 1 other"
+                    }
+                  ]
+                },
+                "other": {
+                  "value": [
+                    {
+                      "type": 0,
+                      "value": "Post due in "
+                    },
+                    {
+                      "type": 1,
+                      "value": "daysHours"
+                    },
+                    {
+                      "type": 0,
+                      "value": " • New posts by "
+                    },
+                    {
+                      "type": 1,
+                      "value": "postedBy"
+                    },
+                    {
+                      "type": 0,
+                      "value": " and "
+                    },
+                    {
+                      "type": 1,
+                      "value": "count"
+                    },
+                    {
+                      "type": 0,
+                      "value": " others"
+                    }
+                  ]
+                }
+              },
+              "type": 5,
+              "value": "count"
+            }
+          ]
+        },
+        "undefined": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Post due in "
+            },
+            {
+              "type": 1,
+              "value": "daysHours"
+            },
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      },
+      "type": 5,
+      "value": "postedBy"
+    }
+  ],
+  "vfZhnr": [
+    {
+      "type": 0,
+      "value": "Whoops! Some wires got crossed. Please try again."
+    }
+  ],
+  "vib4WJ": [
+    {
+      "type": 0,
+      "value": "Your birth day and month (optional)"
+    }
+  ],
+  "wEHzuz": [
+    {
+      "type": 0,
+      "value": "If you’d like to join, you’ll have to ask permission from your Assembly’s admin"
+    }
+  ],
+  "wFVOIC": [
+    {
+      "type": 0,
+      "value": "to view posts"
+    }
+  ],
+  "wFY9wv": [
+    {
+      "type": 0,
+      "value": "For HR"
+    }
+  ],
+  "wFZEet": [
+    {
+      "type": 0,
+      "value": "Floating action button drag"
+    }
+  ],
+  "wSZR47": [
+    {
+      "type": 0,
+      "value": "Submit"
+    }
+  ],
+  "wV6aIH": [
+    {
+      "type": 0,
+      "value": "Try this flow"
+    }
+  ],
+  "wiyUdR": [
+    {
+      "type": 0,
+      "value": "Post by "
+    },
+    {
+      "type": 1,
+      "value": "author"
+    },
+    {
+      "type": 0,
+      "value": " in "
+    },
+    {
+      "type": 1,
+      "value": "flow"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "style": "short",
+      "type": 3,
+      "value": "createdAt"
+    },
+    {
+      "type": 0,
+      "value": " at "
+    },
+    {
+      "style": "short",
+      "type": 4,
+      "value": "createdAt"
+    },
+    {
+      "type": 0,
+      "value": " | "
+    },
+    {
+      "type": 1,
+      "value": "workspaceName"
+    },
+    {
+      "type": 0,
+      "value": " - Assembly"
+    }
+  ],
+  "wwvc88": [
+    {
+      "type": 0,
+      "value": "Click on the link in your email to finish signing up -- Don't forget to check your spam/junk."
+    }
+  ],
+  "x/m1hN": [
+    {
+      "type": 0,
+      "value": "Uploaded to "
+    },
+    {
+      "type": 1,
+      "value": "flowName"
+    },
+    {
+      "type": 0,
+      "value": " by "
+    },
+    {
+      "type": 1,
+      "value": "creatorName"
+    },
+    {
+      "type": 0,
+      "value": " on "
+    },
+    {
+      "style": "short",
+      "type": 3,
+      "value": "uploadedAt"
+    },
+    {
+      "type": 0,
+      "value": " at "
+    },
+    {
+      "style": "short",
+      "type": 4,
+      "value": "uploadedAt"
+    }
+  ],
+  "x5rks2": [
+    {
+      "type": 0,
+      "value": "Your first name"
+    }
+  ],
+  "xMl/Jy": [
+    {
+      "type": 0,
+      "value": "The first name you enter must have at least 2 alphabetical characters"
+    }
+  ],
+  "xmcVZ0": [
+    {
+      "type": 0,
+      "value": "Search"
+    }
+  ],
+  "y0EYpw": [
+    {
+      "type": 0,
+      "value": "Rewards"
+    }
+  ],
+  "yL+T/M": [
+    {
+      "type": 0,
+      "value": "Pin universal menu"
+    }
+  ],
+  "yaMHMB": [
+    {
+      "type": 0,
+      "value": "Results"
+    }
+  ],
+  "ybuaeI": [
+    {
+      "type": 0,
+      "value": "Scan this QR code using your phone’s camera to be redirected to the App Store. You can also search for “Assembly - Digital HQ” in the App Store to find it yourself."
+    }
+  ],
+  "yhU1et": [
+    {
+      "type": 0,
+      "value": "Tasks"
+    }
+  ],
+  "yyYBke": [
+    {
+      "type": 0,
+      "value": "What best describes your role?"
+    }
+  ],
+  "zAiYHE": [
+    {
+      "type": 0,
+      "value": "Your account is set up!"
+    }
+  ],
+  "zPji8t": [
+    {
+      "type": 0,
+      "value": "View feed"
+    }
+  ],
+  "zQvVDJ": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "zVmXXp": [
+    {
+      "type": 0,
+      "value": "No workspaces associated with your email"
+    }
+  ],
+  "zx7CKB": [
+    {
+      "type": 0,
+      "value": "Check your email"
+    }
+  ]
+}
