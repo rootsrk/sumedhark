@@ -3,7 +3,7 @@ import { assemblyLogo, displayPicture } from "../assets";
 export function Landing() {
   return (
     <div className="flex h-screen w-screen">
-      <div className="basis-1/4 bg-gray-9 p-8">
+      <div className="basis-1/4 bg-gray-9 p-8 max-md:basis-full">
         <div className="border border-gray-8 rounded-2xl h-[900px] p-8">
           <img
             className="rounded-2xl mt-4"
@@ -48,7 +48,7 @@ export function Landing() {
           </button>
         </div>
       </div>
-      <div className="basis-3/4 bg-gray-9"></div>
+      <div className="basis-3/4 bg-gray-9 max-md:hidden"></div>
     </div>
   );
 }
