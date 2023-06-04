@@ -2,7 +2,7 @@ import { assemblyLogo, displayPicture } from "../assets";
 
 export function Landing() {
   return (
-    <div className="flex h-screen w-screen">
+    <div className="flex h-fit w-screen">
       <div className="basis-1/4 bg-gray-9 p-8 max-md:basis-full">
         <div className="border border-gray-8 rounded-2xl h-fit p-8">
           <img
